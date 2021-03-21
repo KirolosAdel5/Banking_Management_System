@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>photo/Asset 2.png</file>
+    <file>photo/user1.png</file>
+    <file>photo/user3.png</file>
+    <file>photo/i.png</file>
+    <file>photo/1-01.png</file>
+    <file>photo/7251-01.png</file>
+    <file>photo/22.png</file>
+    <file>photo/22.png</file>
+    <file>photo/3862682_Mesa de trabajo 1.png</file>
+    <file>photo/border.png</file>
+    <file>photo/account.png</file>
+    <file>photo/2.png</file>
+    <file>photo/8750 [Converted].png</file>
+    <file>i.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>photo/Untitled-1-01.png</file>
+    <file>photo/1-01.png</file>
+  </qresource>
+</RCC>
